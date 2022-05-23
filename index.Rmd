@@ -6,8 +6,8 @@ links:
     url: "www.linkedin.com/in/alexandra-paulina-krause"
   - label: Twitter
     url: "https://twitter.com/Al__Krause"
-  - label: Blog
-    url: "https://blog.keithmcnulty.org"
+ # - label: Blog
+ #   url: "https://blog.keithmcnulty.org"
   - label: Contact
     url: "s7alkrau@uni-bonn.de"
 output:
@@ -33,11 +33,11 @@ meta() %>%
   meta_description(
     "Alexandra Krause: B.Sc. Forestry and Forest Ecology ; Student of Crop Science (Master), University Bonn"
   ) %>% 
-  meta_name("github-repo" = " AlexandraKrause/Mypage") %>% 
+  meta_name("github-repo" = "AlexandraKrause/Mypage") %>% 
   meta_viewport() %>% 
   meta_social(
     title = "Alexandra Krause: B.Sc. Forestry and Forest Ecology ; Student of Crop Science (Master), University Bonn",
-    url = "https://keithmcnulty.org",
+   # url = "https://keithmcnulty.org",
     image = "picture-me.jpg",
     image_alt = "picture-me.jpg",
     og_author = c("Alexandra Krause"),
