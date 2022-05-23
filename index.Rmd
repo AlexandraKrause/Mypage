@@ -9,7 +9,7 @@ links:
  # - label: Blog
  #   url: "https://blog.keithmcnulty.org"
   - label: Contact
-    url: "https://s7alkrau@uni-bonn.de"
+    url: "mailto:s7alkrau@uni-bonn.de"
 output:
   postcards::trestles
 ---
