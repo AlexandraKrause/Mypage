@@ -1,2 +1,1 @@
-my
-Mypage
+My page containing my information about me :)
