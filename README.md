@@ -1,1 +1,1 @@
-My page containing my information about me :)
+My page containing information about me :)
