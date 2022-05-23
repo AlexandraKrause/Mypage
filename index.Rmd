@@ -3,21 +3,18 @@ title: "Alexandra Krause"
 image: "picture-me.jpg"
 links:
   - label: LinkedIn
-    url: "www.linkedin.com/in/alexandra-paulina-krause"
+    url: "https://linkedin.com/in/alexandra-paulina-krause"
   - label: Twitter
     url: "https://twitter.com/Al__Krause"
  # - label: Blog
  #   url: "https://blog.keithmcnulty.org"
   - label: Contact
-    url: "s7alkrau@uni-bonn.de"
+    url: "https://s7alkrau@uni-bonn.de"
 output:
   postcards::trestles
 ---
 
 <br>
-
-B.Sc. Forestry and Forest Ecology ; Student of Crop Science (Master), University Bonn
-
 My goal is to gather as much knowledge as possible from both fields of forestry and agricultural sciences. I want to deepen and pass on my existing knowledge during my studies.
 
 So, in 2018, I completed my B.Sc. in Forest Sciences and Forest Ecology at the Georg-August-University of Göttingen and am now studying Crop Sciences at the Faculty of Agriculture at the Rheinische Friedrich-Wilhelms-University of Bonn. 
