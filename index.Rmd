@@ -1,6 +1,6 @@
 ---
 title: "Alexandra Krause"
-image: "picture-me.jpg"
+image: "picture-me2.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/in/alexandra-paulina-krause"
@@ -17,7 +17,7 @@ output:
 <br>
 My goal is to gather as much knowledge as possible from both fields of forestry and agricultural sciences. I want to deepen and pass on my existing knowledge during my studies.
 
-So, in 2018, I completed my B.Sc. in Forest Sciences and Forest Ecology at the Georg-August-University of Göttingen and am now studying Crop Sciences at the Faculty of Agriculture at the Rheinische Friedrich-Wilhelms-University of Bonn. 
+So, in 2018, I completed my B.Sc. in Forest Sciences and Forest Ecology at the Georg-August-University of Göttingen. Now I am studying Crop Sciences at the Faculty of Agriculture of the Rheinische Friedrich-Wilhelms-University of Bonn. 
 
 Many internships helped me get to know the different areas of forestry and agriculture. During nine months in total, I was able to gain several experiences, first with a district forester and on a farm, before I got to know the work in research, consulting, and at the ministry.
 
@@ -38,7 +38,7 @@ meta() %>%
     title = "Alexandra Krause: B.Sc. Forestry and Forest Ecology ; Student of Crop Science (Master), University Bonn",
    # url = "https://keithmcnulty.org",
     image = "picture-me.jpg",
-    image_alt = "picture-me.jpg",
+    image_alt = "picture-me2.jpg",
     og_author = c("Alexandra Krause"),
     twitter_card_type = "summary",
     twitter_creator = "@Al__Krause"
