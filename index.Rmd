@@ -21,9 +21,9 @@ So, in 2018, I completed my B.Sc. in Forest Sciences and Forest Ecology at the G
 
 Many internships helped me get to know the different areas of forestry and agriculture. During nine months in total, I was able to gain several experiences, first with a district forester and on a farm, before I got to know the work in research, consulting, and at the ministry.
 
-During my studies, I can regularly improve my statistical and computer skills (R, Python, Gis), gain new laboratory experience, and generally deepen my knowledge of agriculture, forestry, and horticultural sciences. The spectrum of knowledge I generally access allows me to get excited about my studies every day.
+During my studies, I can regularly improve my statistical and computer skills (R, Python, GIS), gain new laboratory experience, and generally deepen my knowledge of agriculture, forestry, and horticultural sciences. The spectrum of knowledge I generally access allows me to get excited about my studies every day.
 
-My research interest is gender inclusion in agricultural studies. I am currently researching factors influencing rural farm women’s empowerment in agricultural development. A case study with the usage of Decision Analysis methodology will be executed.
+My research interest is gender inclusion in agricultural studies. I am currently researching factors influencing rural farm women’s empowerment in agricultural development. The Decision Analysis methodology will be used.
 
 ```{r, echo = FALSE}
 library(metathis)
