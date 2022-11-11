@@ -10,6 +10,8 @@ links:
  #   url: "https://blog.keithmcnulty.org"
   - label: Contact
     url: "mailto:s7alkrau@uni-bonn.de"
+  - label: Researchgate
+    url: "https://www.researchgate.net/profile/Alexandra-Krause-2"
 output:
   postcards::trestles
 ---
