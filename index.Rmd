@@ -30,7 +30,15 @@ As a Ph.D. student, I work at the Institute of Crop Science and Resource Conserv
 
 
 ```{r, echo = FALSE}
-library(metathis)
+    defaultW <- getOption("warn") 
+
+    options(warn = -1) 
+
+
+    
+    
+    library(metathis)
+
 
 meta() %>%
   meta_description(
@@ -47,4 +55,5 @@ meta() %>%
     twitter_card_type = "summary",
     twitter_creator = "@Al__Krause"
   )
+options(warn = defaultW)
 ```
