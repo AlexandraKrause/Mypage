@@ -18,15 +18,10 @@ output:
 
 <br>
 My goal is to gather as much knowledge as possible from both fields of agricultural and forestry sciences. I want to deepen and pass on my existing knowledge during my studies.
-
-So, in 2018, I completed my B.Sc. in Forest Sciences and Forest Ecology at the Georg-August-University of Göttingen. I studied Crop Sciences at the Faculty of Agriculture of the Rheinische Friedrich-Wilhelms-University of Bonn until 2022. 
-
-Many internships helped me learn about the different areas of agriculture, horticulture, and forestry. During nine months in total, I gained several experiences, first with a district forester and on an ecological managed farm, before I got to know the work in research, consulting, and at the ministry.
-
-During my studies, I could regularly improve my statistical and computer skills (mainly R, Python, GIS), gain new experience, and generally deepen my knowledge of agriculture, forestry, and horticultural sciences. 
-My master thesis focused on gender inclusion in agricultural studies. Therefore, I researched factors influencing rural farm women’s empowerment in agricultural development using the Decision Analysis methodology.
-
-As a Ph.D. student, I work at the Institute of Crop Science and Resource Conservation (INRES) horticultural sciences.I am interested in using holistic modeling methods, transdisciplinary research, and system thinking. My goal is to reduce gender data bias and include heterogeneous perspectives of different groups in my research. The spectrum of knowledge I access allows me to get excited about my studies every day.
+So, in 2018, I completed my B.Sc. in Forest Sciences and Forest Ecology at the Georg-August-University of Göttingen. I studied Crop Sciences at the Faculty of Agriculture of the Rheinische Friedrich-Wilhelms-University of Bonn until 2022.
+Many internships helped me learn about the different areas of agriculture, horticulture, and forestry. During nine months in total, I gained several experiences, first with a district forester and on an ecologically managed farm, before I got to know the work in research, consulting, and at the ministry.
+During my studies, I could regularly improve my statistical and computer skills (mainly R, Python, and GIS), gain new experience, and generally deepen my knowledge of agriculture, forestry, and horticultural sciences. My master's thesis focused on gender inclusion in agricultural studies. Therefore, I researched factors influencing rural farm women’s empowerment in agricultural development using the Decision Analysis methodology.
+As a Ph.D. student, I work at the Institute of Crop Science and Resource Conservation (INRES) horticultural sciences. I am interested in using holistic modeling methods, transdisciplinary research, and system thinking. My goal is to reduce gender data bias and include heterogeneous perspectives of different groups in my research. The spectrum of knowledge I access allows me to get excited about my studies every day.
 
 
 ```{r, echo = FALSE}
@@ -34,9 +29,6 @@ As a Ph.D. student, I work at the Institute of Crop Science and Resource Conserv
 
     options(warn = -1) 
 
-
-    
-    
     library(metathis)
 
 
